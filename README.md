@@ -21,3 +21,8 @@ This project presents my work as a developer who builds web, desktop, and Androi
 ## Run Locally
 
 Open `index.html` directly in your browser.
+
+## Official links
+
+- Portfolio: https://rdwan.dev
+- Project page: https://rdwan.dev/projects/19-portfolio.html
